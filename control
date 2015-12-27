@@ -1,0 +1,9 @@
+Package: com.rain.hideappmenu
+Name: HideAppMenu
+Depends: mobilesubstrate, firmware (>= 8.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hiding the Settings application's menu.
+Maintainer: Rain. <1105100295@qq.com>
+Author: Rain. <1105100295@qq.com>
+Section: Tweaks
